@@ -69704,8 +69704,8 @@ A.DT.prototype={
 H(a){var s=null
 return A.h3(s,new A.j4(A.jp(A.a3h(B.Dq,B.aw,B.ah,s,A.fq(a).u4(B.af)?B.dL:B.fx,32),s,1/0),s),B.w,B.co,s,s,s,s,s,1/0)}}
 A.K9.prototype={
-H(a){var s="Call: 08094572523",r=null,q=$.aoX()
-return new A.ca(B.Bi,A.iD(A.b([B.CH,B.KV,A.eJ(s,r,q.cU(B.i),r),B.fN,A.eJ(s,r,q.cU(B.i),r),B.fN,A.eJ("WhatsApp: 08094572523",r,q.cU(B.i),r),B.KT],t.p),B.b1,B.qQ,B.ah),r)}}
+H(a){var s=null,r=$.aoX()
+return new A.ca(B.Bi,A.iD(A.b([B.CH,B.KV,A.eJ("Call: 0972711111",s,r.cU(B.i),s),B.fN,A.eJ("Call: 0963450188",s,r.cU(B.i),s),B.fN,A.eJ("WhatsApp: 0972721111",s,r.cU(B.i),s),B.KT],t.p),B.b1,B.qQ,B.ah),s)}}
 A.O1.prototype={
 H(a){var s=A.fq(a)
 if(s===B.bk||s===B.af||s===B.a_)return B.Ct
